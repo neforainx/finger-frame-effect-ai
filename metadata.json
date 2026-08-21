@@ -1,0 +1,11 @@
+{
+  "name": "Finger Frame AI",
+  "description": "Interactive AI & AR Gesture Studio featuring Live Finger Frame Restyler, Gesture Synthesizer, Seated Air Drum Kit, and Air Guitar with MediaPipe tracking, audio synthesis, and video recording.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

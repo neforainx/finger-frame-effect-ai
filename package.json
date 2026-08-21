@@ -1,0 +1,17 @@
+{
+  "name": "finger-frame-ai",
+  "version": "1.0.0",
+  "description": "Finger Frame AI - AI-animated world inside a tracked finger frame",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'Static build ready'",
+    "lint": "node -c server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "tone": "^15.1.22"
+  }
+}
